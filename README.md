@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PietroParri
-- 👀 I’m interested in learning about web development
+- 👀 I’m interested in learning about web development, Java and Python
 - 🌱 I’m currently learning reactJS and C# asp .NET
 - 💞️ I’m looking to collaborate on database
 
