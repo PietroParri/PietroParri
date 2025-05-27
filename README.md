@@ -5,11 +5,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] Linkedin
 <br />
 
-### Currently working at:
-
-[<img align="left" alt="LandisGyr" width="40px" src="https://www.landisgyr.com/webfoo/wp-content/uploads/2024/02/1-2-387x290.jpg" />][landisgyr] Landis+Gyr
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Csharp" width="26px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
@@ -21,7 +16,6 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/pietro-borges-parri-183272205/
-[landisgyr]: https://www.landisgyr.com
 
 <!---
 PietroParri/PietroParri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
